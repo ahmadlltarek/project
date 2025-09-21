@@ -64,13 +64,16 @@ body {
   margin-top: 12px;
   float: left;
 }
-.sign-in {
+.sign-up {
   word-spacing: 0;
   font-size: 17px;
   padding: 4px 14px;
   background-color: rgba(255, 166, 0, 0.534);
   border-radius: 9px;
   color: rgb(0, 89, 255);
+}
+.sign-up:hover{
+  opacity: 0.5;
 }
 .header-list li {
   list-style-type: none;
