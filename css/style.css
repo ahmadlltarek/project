@@ -223,24 +223,24 @@ hr {  /* for every hr in this website */
   margin-right: 0;
 }
 .ssc-1 {
-  background-image: url(/images/9780857197689.jpg);
+  background-image: url(../images/9780857197689.jpg);
   margin-left: 0.5%;
 }
 .ssc-2 {
   background-image: url(../images/9780593804148.jpg);
 }
 .ssc-3 {
-  background-image: url(/images/9781401980122.webp);
+  background-image: url(../images/9781401980122.webp);
 }
 .ssc-4 {
 
-  background-image: url(/images/atomic\ habits\ cover\ ms.jpg);
+  background-image: url(../images/atomic\ habits\ cover\ ms.jpg);
 }
 .ssc-5 {
-  background-image: url(/images/the-let-them-theory.jpg);
+  background-image: url(../images/the-let-them-theory.jpg);
 }
 .ssc-6 {
-  background-image: url(/images/9780062220332.jpg);
+  background-image: url(../images/9780062220332.jpg);
 }
 .ssc-overlay { 
   width: 100%;
